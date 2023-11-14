@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>yachtclub &#8211; Top-Charter</title>
+	<atom:link href="https://sayedm00.github.io/demo/tag/yachtclub/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sayedm00.github.io/demo</link>
+	<description></description>
+	<lastBuildDate>Thu, 20 Dec 2018 21:10:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://sayedm00.github.io/demo/wp-content/uploads/2018/02/cropped-favicon.png</url>
+	<title>yachtclub &#8211; Top-Charter</title>
+	<link>https://sayedm00.github.io/demo</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lamaro Yacht Club began full-scale preparations for the competition</title>
+		<link>https://sayedm00.github.io/demo/lamaro-yacht-club-began-full-scale-preparations-for-the-competition/</link>
+					<comments>https://sayedm00.github.io/demo/lamaro-yacht-club-began-full-scale-preparations-for-the-competition/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Wed, 07 Nov 2018 12:54:44 +0000</pubDate>
+				<category><![CDATA[Sailor trip]]></category>
+		<category><![CDATA[marine]]></category>
+		<category><![CDATA[sea]]></category>
+		<category><![CDATA[trips]]></category>
+		<category><![CDATA[yachtclub]]></category>
+		<guid isPermaLink="false">https://sayedm00.github.io/demo/?p=6579</guid>
+
+					<description><![CDATA[Learn more about WordPress Embeds.]]></description>
+										<content:encoded><![CDATA[<p><iframe width="500" height="281" src="https://www.youtube.com/embed/4P1zgf9kGTg?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p>Learn more about <a title="WordPress Embeds" href="http://codex.wordpress.org/Embeds" target="_blank" rel="noopener">WordPress Embeds</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sayedm00.github.io/demo/lamaro-yacht-club-began-full-scale-preparations-for-the-competition/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
