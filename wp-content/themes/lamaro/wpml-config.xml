@@ -1,0 +1,8 @@
+<wpml-config>
+    <admin-texts>
+        <key name="fw_theme_settings_options:lamaro">
+            <key name="social-header" />
+            <key name="copyrights" />
+        </key>
+    </admin-texts>
+</wpml-config>
